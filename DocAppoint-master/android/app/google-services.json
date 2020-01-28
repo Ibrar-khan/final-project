@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337849090509",
+    "firebase_url": "https://firecheck-3b8d1.firebaseio.com",
+    "project_id": "firecheck-3b8d1",
+    "storage_bucket": "firecheck-3b8d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337849090509:android:ea884da87990a0a39c4484",
+        "android_client_info": {
+          "package_name": "com.firecheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337849090509-c471441krhgqa27pip2b27jviveuah4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVxOjzXQOX5cykH7wvKd2dh_Mklj6LBL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337849090509-c471441krhgqa27pip2b27jviveuah4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
