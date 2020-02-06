@@ -1,0 +1,4 @@
+#Tue Jan 28 08:01:08 PST 2020
+base.0=E\:\\reactdev\\DocAppoint-master\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
